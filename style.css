@@ -1,0 +1,35 @@
+.header{
+    width: 100%;
+
+}
+.header h1{
+    display: inline; 
+}
+.header button{
+    float: right;
+    color: black;
+}
+.image{
+    width: 100%;
+    height: 600px;
+}
+body{
+    text-align: center;
+}
+.modal-dialog{
+    width : 90%;
+
+}
+.instruction_image{
+    display: inline;
+    width: 45%;
+}
+canvas{
+    border: 2px solid black;
+}
+video{
+    background : url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
